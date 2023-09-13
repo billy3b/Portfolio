@@ -29,4 +29,10 @@ export const ProjectList = [
     skills: "React,TailwindCSS,MongoDB",
     link: 'https://github.com/billy3b/MERN-Recipes'
   },
+  {
+    name:"MoodDiary360",
+    image:proj5,
+    skills: "NextJs, TailwindCSS, Prisma",
+    link: 'https://github.com/billy3b/MoodDiary360',
+  },
 ];
