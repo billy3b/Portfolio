@@ -30,7 +30,7 @@ function Home() {
           <li className="item">
             <h2>Back-End</h2>
             <span>
-              NodeJS, ExpressJS, MySQL, MongoDB, Firebase, Sanity
+              NodeJS, ExpressJS, MySQL, MongoDB, Firebase, Prisma
             </span>
           </li>
           <li className="item">
