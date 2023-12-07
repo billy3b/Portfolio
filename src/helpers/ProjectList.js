@@ -35,4 +35,9 @@ export const ProjectList = [
     skills: "NextJs, TailwindCSS, Prisma",
     link: 'https://github.com/billy3b/MoodDiary360',
   },
+  {
+    name:"DeAuth DOS Detector",
+    skills: "Python",
+    link: 'https://github.com/billy3b/DeAuth-DOS-detector',
+  },
 ];
