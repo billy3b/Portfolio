@@ -3,6 +3,7 @@ import Proj2 from "../assets/proj2.jpg";
 import Proj3 from "../assets/proj3.jpg";
 import Proj4 from "../assets/proj4.jpg";
 import proj5 from "../assets/proj5.jpg";
+import proj7 from "../assets/proj7.jpg";
 
 export const ProjectList = [
   {
@@ -39,5 +40,11 @@ export const ProjectList = [
     name:"DeAuth DOS Detector",
     skills: "Python",
     link: 'https://github.com/billy3b/DeAuth-DOS-detector',
+  },
+  {
+    name:"Toman Bike Shop Data Analysis",
+    image: proj7,
+    skills: "Excel, SQL, PowerBI",
+    link: 'https://github.com/billy3b/Bike-Shop-Data-Analysis',
   },
 ];
